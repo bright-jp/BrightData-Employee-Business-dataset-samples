@@ -3,7 +3,7 @@
 <h2>2,519件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Bright Data Employee Business Dataset Sample** には **2,519件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
