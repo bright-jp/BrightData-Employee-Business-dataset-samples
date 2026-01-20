@@ -1,4 +1,4 @@
-# Bright Data Employee Business Dataset Sample
+# Bright Data Employee Business データセットサンプル
 
 <h2>2,519件のレコードからなるサンプルデータセット</h2>
 
